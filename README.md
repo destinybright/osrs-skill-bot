@@ -2,8 +2,8 @@
 ### Discord Bot Invite Link
 [Click here to invite OSRS Skill Bot to your server!](https://discord.com/oauth2/authorize?client_id=1317430179022376971)
 
-![screenshot1](/images/agility.PNG)
 ![screenshot2](/images/skills.PNG)
+![screenshot1](/images/agility.PNG)
 
 ### Features
 - Allows users to check the levels of all skills of a specific player
